@@ -411,7 +411,7 @@ In this step we will create a visualization that shows who are the host played a
 
 Play around and explore Amazon QuickSight Console. Try out filters, other visualization types, etc.
 
-# Follow vikasomer-aws-Lambda Hands-on.html guide for lambda hands-on before clean up. Once lambda hands-on is complete, proceed with clean-up process below.
+### Follow "vikasomer-aws-Lambda Hands-on.html" guide for lambda hands-on before clean up. Once lambda hands-on is complete, proceed with clean-up process below.
 
 # Clean Up
 
