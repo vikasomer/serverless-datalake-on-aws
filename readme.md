@@ -1,7 +1,8 @@
 # Building Serverless Data Lakes on AWS
 Author: Unni Pillai | Amazon Web Services | [Twitter](https://twitter.com/unni_k_pillai) | [Linkedin](http://bit.ly/upillai)
+Updated by: Vikas Omer | Amazon Web Services | [Linkedin](https://www.linkedin.com/in/vikas-omer/)
 
-![Architecture Diagram](./img/unnik-techfest-2019-lab-architecture.png)
+![Architecture Diagram](./img/lab-architecture.png)
 
 ### Learning outcomes from this workshop?
 * Design serverless data lake architecture
