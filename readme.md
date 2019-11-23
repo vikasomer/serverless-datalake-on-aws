@@ -411,7 +411,7 @@ In this step we will create a visualization that shows who are the host played a
 
 Play around and explore Amazon QuickSight Console. Try out filters, other visualization types, etc.
 
-# Lambda
+# Part 5: Lambda
 
 Let's create a Lambda Function which will host the code for Athena to query and fetch Top 5 Popular Songs by Hits from processed data.
 
