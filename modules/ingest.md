@@ -4,7 +4,7 @@ Author: Unni Pillai | Amazon Web Services | [Twitter](https://twitter.com/unni_k
 
 Updated by: Vikas Omer | Amazon Web Services | [Linkedin](https://www.linkedin.com/in/vikas-omer/)
 
-![Architecture Diagram](./img/ingest.png)
+![Architecture Diagram](../img/ingest.png)
 
 # Pre-requisites:  
 * You need to have access to an AWS account with **AdminstratorAccess**

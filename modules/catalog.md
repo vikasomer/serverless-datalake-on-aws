@@ -4,11 +4,11 @@ Author: Unni Pillai | Amazon Web Services | [Twitter](https://twitter.com/unni_k
 
 Updated by: Vikas Omer | Amazon Web Services | [Linkedin](https://www.linkedin.com/in/vikas-omer/)
 
-![Architecture Diagram](./img/catalog.png)
+![Architecture Diagram](../img/catalog.png)
 
 # Pre-requisites:  
 Completed the previous modules   
-* Ingest and Storage [link](./modules/ingest.md)
+* Ingest and Storage [link](../modules/ingest.md)
 
 # Catalog Data
 

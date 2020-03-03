@@ -4,12 +4,12 @@ Author: Unni Pillai | Amazon Web Services | [Twitter](https://twitter.com/unni_k
 
 Updated by: Vikas Omer | Amazon Web Services | [Linkedin](https://www.linkedin.com/in/vikas-omer/)
 
-![Architecture Diagram](./img/transform.png)
+![Architecture Diagram](../img/transform.png)
 
 # Pre-requisites:  
 Completed the previous modules   
-* Ingest and Storage [link](./modules/ingest.md)
-* Catalog Data [link](./modules/catalog.md)
+* Ingest and Storage [link](../modules/ingest.md)
+* Catalog Data [link](../modules/catalog.md)
 
 # Transform Data
 
