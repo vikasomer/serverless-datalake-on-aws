@@ -50,7 +50,7 @@ In this step, we will navigate to AWS Glue Console & create glue crawlers to dis
         * Add another data store : **No**
         * Click - **Next**
     * IAM Role
-        * Choose: **Create an IAM role**
+        * Choose: **Choose an existing IAM role**
         * Role Name: **AWSGlueServiceRoleDefault**
         * Click - **Next**
     * Schedule
