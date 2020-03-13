@@ -12,6 +12,7 @@ Updated by: Vikas Omer | Amazon Web Services | [Linkedin](https://www.linkedin.c
 * Use Amazon Kinesis for real-time streaming data
 * Use AWS Glue to automatically catalog datasets
 * Run interactive ETL scripts in an Amazon SageMaker Jupyter notebook connected to an AWS Glue development endpoint
+* Use EMR to run a Spark transformation job
 * Query data using Amazon Athena & visualize it using Amazon QuickSight
 
 # Pre-requisites:  
@@ -27,6 +28,7 @@ Updated by: Vikas Omer | Amazon Web Services | [Linkedin](https://www.linkedin.c
 Ingest and Store | [link](./modules/ingest.md)
 Catalog Data | [link](./modules/catalog.md)
 Transform Data with AWS Glue | [link](./modules/transform_glue.md)
+Transform Data with EMR | [link](./modules/emr.md)
 Analyze with Athena | [link](./modules/analyze.md)
 Visualize with Quicksight | [link](./modules/visualize.md)
 Lambda | [link](./modules/lambda.md)
