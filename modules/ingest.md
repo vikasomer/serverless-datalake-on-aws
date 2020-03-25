@@ -37,8 +37,8 @@ Navigate to S3 Console & Create a new bucket in us-east-1 region :
             * New folder : **reference_data**
             * Click - **Save**
     * Open - **reference_data**
-        * download this file locally : [tracks_list.json](../tracks_list.json)
-        *Note: Ensure you download the raw JSON data by clicking the Raw button near the top of the Github page.*
+        * download this file locally : [tracks_list.json](../tracks_list.json). 
+        **Note**: Ensure you download the raw JSON data by clicking the Raw button near the top of the Github page.
         * Click - Upload
             * Click **Add files** & upload the **tracks_list.json** file here
             * Click **Upload** (bottom left)
